@@ -1,4 +1,4 @@
-var arr = [3,5,66,78,23,44,11,32,58];
+var arr = [5, 2, 4, 6, 1, 3];
 
 function SelectionSort(arr){
   var arr = arr.slice()
